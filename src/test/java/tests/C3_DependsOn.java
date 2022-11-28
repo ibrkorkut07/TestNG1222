@@ -37,7 +37,6 @@ public class C3_DependsOn {
         Assert.assertEquals(driver.getCurrentUrl(), "https://www.amazon.com/");
     }
 
-
     // 2. Test : 1.Test basarili ise search Box’i kullanarak “Nutella” icin
     // arama yapin ve aramanizin gerceklestigini Test edin
     @Test (dependsOnMethods = "test1")
