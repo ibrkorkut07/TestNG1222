@@ -27,10 +27,8 @@ public abstract class TestBase {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
     }
 
-    @AfterClass
-    public void teardown(){
-        driver.close();
-    }
+//    @AfterClass
+//    public void teardown(){driver.close();}
 
     public void tumSayfaScreenshot() throws IOException {
         TakesScreenshot tss=(TakesScreenshot) driver;

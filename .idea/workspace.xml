@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="915f33b8-7b3e-4502-9aba-56c10e91f269" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C10_WindowHandle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C11_WindowHandle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C9_Iframe2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C15_MouseActions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C16_KeyboardActions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C17_KeyboardActions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C18_KeyboardActions3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C08_Iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C8_Iframe1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C1_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C1_DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C2_DropdownAmazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C2_DropdownAmazon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C3_DependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C3_DependsOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C5_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C5_SoftAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C6_Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C6_Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C7_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C7_BasicAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +53,7 @@
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C11_WindowHandle2.test">
-    <configuration name="C08_Iframe.iframeTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG1222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P1_BasicClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.C08_Iframe" />
-      <option name="METHOD_NAME" value="iframeTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C14_MouseActions3.Test">
     <configuration name="C10_WindowHandle.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
@@ -115,17 +90,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C7_BasicAuthentication.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C12_Mouseactions1.Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P1_BasicClasses.*" />
+          <option name="PATTERN" value="P2_ClassesWithTestbase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="P1_BasicClasses.C7_BasicAuthentication" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="P2_ClassesWithTestbase" />
+      <option name="MAIN_CLASS_NAME" value="P2_ClassesWithTestbase.C12_Mouseactions1" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,17 +108,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C9_Iframe2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C13_MouseActions2.Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P1_BasicClasses.*" />
+          <option name="PATTERN" value="P2_ClassesWithTestbase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="P1_BasicClasses.C9_Iframe2" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="P2_ClassesWithTestbase" />
+      <option name="MAIN_CLASS_NAME" value="P2_ClassesWithTestbase.C13_MouseActions2" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C14_MouseActions3.Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG1222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P2_ClassesWithTestbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P2_ClassesWithTestbase" />
+      <option name="MAIN_CLASS_NAME" value="P2_ClassesWithTestbase.C14_MouseActions3" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -153,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C14_MouseActions3.Test" />
+        <item itemvalue="TestNG.C13_MouseActions2.Test" />
+        <item itemvalue="TestNG.C12_Mouseactions1.Test" />
         <item itemvalue="TestNG.C11_WindowHandle2.test" />
         <item itemvalue="TestNG.C10_WindowHandle.test" />
-        <item itemvalue="TestNG.C9_Iframe2.test" />
-        <item itemvalue="TestNG.C08_Iframe.iframeTest" />
-        <item itemvalue="TestNG.C7_BasicAuthentication.test" />
       </list>
     </recent_temporary>
   </component>
