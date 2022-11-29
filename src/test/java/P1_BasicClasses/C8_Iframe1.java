@@ -1,4 +1,4 @@
-package tests;
+package P1_BasicClasses;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -11,10 +11,9 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import java.time.Duration;
-import java.util.List;
 import java.util.Set;
 
-public class C08_Iframe {
+public class C8_Iframe1 {
 
     // https://the-internet.herokuapp.com/iframe adresine gidin.
     // Bir metod olusturun: iframeTest

@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="915f33b8-7b3e-4502-9aba-56c10e91f269" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/C08_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/C5_SoftAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/C6_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C10_WindowHandle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C11_WindowHandle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C9_Iframe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C3_DependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/C3_DependsOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C08_Iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C8_Iframe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C1_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C1_DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C2_DropdownAmazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C2_DropdownAmazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C3_DependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C3_DependsOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C5_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C5_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C6_Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C6_Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/C7_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C7_BasicAuthentication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,28 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ibrko/IdeaProjects/TestNG1222/src/test/java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ibrko/IdeaProjects/TestNG1222/src/test/java/utilities"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\utilities" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C08_Iframe.iframeTest">
+  <component name="RunManager" selected="TestNG.C11_WindowHandle2.test">
     <configuration name="C08_Iframe.iframeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="P1_BasicClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,17 +79,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C6_Alerts.acceptAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C10_WindowHandle.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="P1_BasicClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.C6_Alerts" />
-      <option name="METHOD_NAME" value="acceptAlert" />
+      <option name="MAIN_CLASS_NAME" value="tests.C10_WindowHandle" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -91,35 +97,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C6_Alerts.dismissAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C11_WindowHandle2.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="P1_BasicClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.C6_Alerts" />
-      <option name="METHOD_NAME" value="dismissAlert" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C6_Alerts.sendKeysAlert" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG1222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.C6_Alerts" />
-      <option name="METHOD_NAME" value="sendKeysAlert" />
+      <option name="MAIN_CLASS_NAME" value="P1_BasicClasses.C11_WindowHandle2" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,12 +119,30 @@
       <module name="TestNG1222" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="P1_BasicClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.C7_BasicAuthentication" />
+      <option name="MAIN_CLASS_NAME" value="P1_BasicClasses.C7_BasicAuthentication" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C9_Iframe2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG1222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1_BasicClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="P1_BasicClasses.C9_Iframe2" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C11_WindowHandle2.test" />
+        <item itemvalue="TestNG.C10_WindowHandle.test" />
+        <item itemvalue="TestNG.C9_Iframe2.test" />
         <item itemvalue="TestNG.C08_Iframe.iframeTest" />
         <item itemvalue="TestNG.C7_BasicAuthentication.test" />
-        <item itemvalue="TestNG.C6_Alerts.sendKeysAlert" />
-        <item itemvalue="TestNG.C6_Alerts.dismissAlert" />
-        <item itemvalue="TestNG.C6_Alerts.acceptAlert" />
       </list>
     </recent_temporary>
   </component>

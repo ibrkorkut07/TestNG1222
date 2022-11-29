@@ -1,4 +1,4 @@
-package tests;
+package P1_BasicClasses;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -12,7 +12,6 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import java.time.Duration;
-import java.util.Arrays;
 import java.util.List;
 
 public class C5_SoftAssert {
