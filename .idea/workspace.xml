@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="915f33b8-7b3e-4502-9aba-56c10e91f269" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C23_ExplicitlyWait1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C24_ExplicitlyWait2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C25_EnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C26_Senkronizasyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C27_JS_Executor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C21_FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C21_FileDownload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C22_FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C22_FileUpload.java" afterDir="false" />
-    </list>
+    <list default="true" id="915f33b8-7b3e-4502-9aba-56c10e91f269" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +34,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ibrko/IdeaProjects/TestNG1222/src/test/java/tests/P4_Wait"
+    "last_opened_file_path": "C:/Users/ibrko/IdeaProjects/TestNG1222/src/test/java/tests/P5_Screenshots"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\tests\P5_Screenshots" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\tests\P4_Wait" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\tests\FileExist" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\utilities" />
@@ -139,7 +131,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.P4_Wait" />
-      <option name="MAIN_CLASS_NAME" value="tests.P4_Wait_Faker_Cookies.C25_EnableTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day02.C25_EnableTest" />
       <option name="METHOD_NAME" value="isEnabled" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
