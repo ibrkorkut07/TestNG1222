@@ -18,15 +18,13 @@ public class C21_FileDownload extends TestBase {
 
     @Test
     public void isExistTesti(){
-        String dosyaYolu= System.getProperty("user.home")+ "\\Downloads\\download.png";
-        Assert.assertTrue(Files.exists(Paths.get(dosyaYolu)));
-
+        driver.get("https://the-internet.herokuapp.com/download");
+        driver.findElement(By.xpath("//a[text()='test.txt']")).click();
     }
 
     @Test
     public void downloadTesti() throws InterruptedException {
-        driver.get("https://the-internet.herokuapp.com/download");
-        driver.findElement(By.xpath("//a[.='download.png']")).click();
-        Thread.sleep(5000);
+        String filePath = System.getProperty("user.home") + "\\Downloads\\test.txt";
+        Assert.assertTrue(Files.exists(Paths.get(filePath)));
     }
 }

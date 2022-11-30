@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="915f33b8-7b3e-4502-9aba-56c10e91f269" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C19_FileExists1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C20_FileExists2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C21_FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C22_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C23_ExplicitlyWait1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C24_ExplicitlyWait2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C25_EnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C26_Senkronizasyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/P4_Wait/C27_JS_Executor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C10_WindowHandle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C10_WindowHandle1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C11_WindowHandle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C11_WindowHandle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C1_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C1_DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C2_DropdownAmazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C2_DropdownAmazon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C3_DependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C3_DependsOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C5_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C5_SoftAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C6_Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C6_Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C7_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C7_BasicAuthentication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C8_Iframe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C8_Iframe1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P1_BasicClasses/C9_Iframe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P1_BasicClasses/C9_Iframe2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C12_Mouseactions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C12_Mouseactions1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C13_MouseActions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C13_MouseActions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C14_MouseActions3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C14_MouseActions3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C15_MouseActions4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C15_MouseActions4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C16_KeyboardActions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C16_KeyboardActions1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C17_KeyboardActions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C17_KeyboardActions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/P2_ClassesWithTestbase/C18_KeyboardActions3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P2_ClassesWithTestbase/C18_KeyboardActions3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C21_FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C21_FileDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C22_FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/P3_FileExist/C22_FileUpload.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +38,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ibrko/IdeaProjects/TestNG1222/src/test/java/tests/FileExist&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ibrko/IdeaProjects/TestNG1222/src/test/java/tests/P4_Wait"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\tests\P4_Wait" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\tests\FileExist" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java\utilities" />
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG1222\src\test\java" />
@@ -70,79 +57,7 @@
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C14_MouseActions3.Test">
-    <configuration name="C10_WindowHandle.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG1222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P1_BasicClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.C10_WindowHandle" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C11_WindowHandle2.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG1222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P1_BasicClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="P1_BasicClasses.C11_WindowHandle2" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C12_Mouseactions1.Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG1222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P2_ClassesWithTestbase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="P2_ClassesWithTestbase" />
-      <option name="MAIN_CLASS_NAME" value="P2_ClassesWithTestbase.C12_Mouseactions1" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C13_MouseActions2.Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG1222" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="P2_ClassesWithTestbase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="P2_ClassesWithTestbase" />
-      <option name="MAIN_CLASS_NAME" value="P2_ClassesWithTestbase.C13_MouseActions2" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C25_EnableTest.isEnabled">
     <configuration name="C14_MouseActions3.Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG1222" />
       <extension name="coverage">
@@ -161,13 +76,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C21_FileDownload.downloadTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG1222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.P3_FileExist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.P3_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="tests.P3_FileExist.C21_FileDownload" />
+      <option name="METHOD_NAME" value="downloadTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C21_FileDownload.isExistTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG1222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.P3_FileExist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.P3_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="tests.P3_FileExist.C21_FileDownload" />
+      <option name="METHOD_NAME" value="isExistTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C22_FileUpload.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG1222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.P3_FileExist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.P3_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="tests.P3_FileExist.C22_FileUpload" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C25_EnableTest.isEnabled" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG1222" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.P6_JSExecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.P4_Wait" />
+      <option name="MAIN_CLASS_NAME" value="tests.P4_Wait_Faker_Cookies.C25_EnableTest" />
+      <option name="METHOD_NAME" value="isEnabled" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C25_EnableTest.isEnabled" />
+        <item itemvalue="TestNG.C21_FileDownload.downloadTesti" />
+        <item itemvalue="TestNG.C21_FileDownload.isExistTesti" />
+        <item itemvalue="TestNG.C22_FileUpload.test01" />
         <item itemvalue="TestNG.C14_MouseActions3.Test" />
-        <item itemvalue="TestNG.C13_MouseActions2.Test" />
-        <item itemvalue="TestNG.C12_Mouseactions1.Test" />
-        <item itemvalue="TestNG.C11_WindowHandle2.test" />
-        <item itemvalue="TestNG.C10_WindowHandle.test" />
       </list>
     </recent_temporary>
   </component>
