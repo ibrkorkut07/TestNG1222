@@ -1,4 +1,4 @@
-package P2_ClassesWithTestbase;
+package tests.P2_ClassesWithTestbase;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

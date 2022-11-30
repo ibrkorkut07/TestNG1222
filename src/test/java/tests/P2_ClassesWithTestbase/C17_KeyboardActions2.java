@@ -1,4 +1,4 @@
-package P2_ClassesWithTestbase;
+package tests.P2_ClassesWithTestbase;
 
 import org.testng.annotations.Test;
 import utilities.TestBase;
